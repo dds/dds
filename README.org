@@ -1,3 +1,4 @@
 #+STARTUP: inlineimages
 * 🙇‍♂️ Hi, I'm David Smith
-[[https://hit.yhype.halp.im/github/profile?user_id=81548]]
+#+ATTR_HTML: :alt button showing github profile views :align right
+[[https://hit.yhype.halp.im/github/profile?user_id=81548][https://hit.yhype.halp.im/github/profile?user_id=81548]]
