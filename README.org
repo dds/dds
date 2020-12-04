@@ -1,1 +1,3 @@
+#+STARTUP: inlineimages
 * 🙇‍♂️ Hi, I'm David Smith
+[[https://hit.yhype.halp.im/github/profile?user_id=81548]]
