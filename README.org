@@ -1,2 +1,2 @@
 * 🙇‍♂️ Hi, I'm David Smith
-#+html: <p align="right"><img src="https://hit.yhype.halp.im/github/profile?user_id=81548" alt="GitHub profile views counter" /></p>
+#+html: <p align="right"><img src="https://komarev.com/ghpvc/?username=dds" alt="GitHub profile views counter" /></p>
