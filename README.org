@@ -1,5 +1,11 @@
+:PROPERTIES:
+:ID:       60e2cb8a-4063-4089-b0f0-d08fd43677d8
+:END:
 * 🙇‍♂️ Hi, I'm David Smith, and I just pushed code to production.
-<p>Staff software engineer at <a href="https://www.nerdwallet.com/">NerdWallet</a> focusing on Go infrastructure.</p>
+
+Staff software engineer at [[https://www.nerdwallet.com/][NerdWallet]] focusing on Go infrastructure.
+
+If you'd like to reach out, please use my [[https://twitter.com/exponent][twitter]].
 
 #+html: <p><small>Pronouns: he/him (<a href="https://lgbt.ucsf.edu/pronounsmatter">why?</a>)</small></p>
 #+html: <img width="495" height="165" src="https://github-readme-stats.vercel.app/api?username=dds&show_icons=true&line_height=20&title_color=3a6181&icon_color=1b93c9&show_owner=true"/>
