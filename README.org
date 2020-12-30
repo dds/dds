@@ -3,7 +3,7 @@
 :END:
 * 🙇‍♂️ Hi, I'm David Smith, and I just pushed code to production.
 
-Staff software engineer at [[https://www.nerdwallet.com/][NerdWallet]] focused on Go infrastructure.
+Staff software engineer at [[https://www.nerdwallet.com/][NerdWallet]] for platform.
 
 Please reach out on [[https://twitter.com/exponent][Twitter]] or [[https://keybase.io/omgthedds][Keybase]].
 
